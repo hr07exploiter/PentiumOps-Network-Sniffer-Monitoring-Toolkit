@@ -1,0 +1,18 @@
+Thank you for using our Network Sniffer Toolkit
+Developed By:- PentiumOps Team
+
+
+To use our toolkit you must follow the steps given below:-
+
+1. Must be using any linux operating system
+2. Then open the terminal in the directory where the toolkit of PentiumOps is downloaded
+3. Then Follow the Command-Line Instructions Given:-
+	(i) sudo chmod +x PentiumOps.sh
+	(ii) sudo python PentiumOps.sh
+
+(If it gives you the error, then you must install Python 2 into your system).
+
+
+
+Thanking You Onces Again For Using Us.......:-)
+PentiumOps Team
