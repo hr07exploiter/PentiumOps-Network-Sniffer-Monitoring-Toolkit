@@ -30,4 +30,14 @@ To use our toolkit you must follow the steps given below:-
 
 
 Thanking You Onces Again For Using Us.......:-)
-PentiumOps Team
+
+
+
+
+
+<p align=center>
+  <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
+  
+  <br>
+  
+   ### <p align="center">Developed By:- Team PentiumOps </p>
