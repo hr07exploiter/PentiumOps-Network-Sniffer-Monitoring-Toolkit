@@ -13,8 +13,8 @@ Developed By:- PentiumOps Team
 
 To use our toolkit you must follow the steps given below:-
 
-1. Must be using any linux operating system
-2. Then open the terminal in the directory where the toolkit of PentiumOps is downloaded
+1. Must be using any linux operating system ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+3. Then open the terminal in the directory where the toolkit of PentiumOps is downloaded
    ```bash
    git clone https://github.com/hr07exploiter/PentiumOps-Network-Sniffer-Monitoring-Toolkit.git
    cd PentiumOps-Network-Sniffer-Monitoring-Toolkit
