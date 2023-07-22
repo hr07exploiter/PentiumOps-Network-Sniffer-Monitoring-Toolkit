@@ -1,6 +1,7 @@
 from usefull import *
 import struct
 
+
 #DNS ---https://tools.ietf.org/html/rfc2929
 def dns(data_3,udp_size,newObject):
 	dns_rcodes= {'0':'No error(0)','1':'Format error(1)','2':'Server failure(2)','3':'Name Error(3)','4':'Not Implemented(4)','5':'Refused(5)'}
