@@ -8,7 +8,6 @@ import socket,struct,textwrap
 import sys,os
 import time
 
-
 #Reference: https://tools.ietf.org/html/rfc1340
 eth_type = {'8':'IPv4(0x0800)','1544':'ARP (0x0806)','#': 'EEE 802.1Q (0x8100)','56710':'IPv6 (0x86DD)'}
 protocol_no = {'1':'ICMP','2':'IGMP','3':'GGP','4':'IPV4','5':'ST','6':'TCP','7':'CBT','8':'EGP','9':'IGP','17':'UDP','41':'IPv6','58':'IPv6-ICMP','121':'SMP'}
