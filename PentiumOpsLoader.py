@@ -15,6 +15,7 @@ protocol_no = {'1':'ICMP','2':'IGMP','3':'GGP','4':'IPV4','5':'ST','6':'TCP','7'
 
 
 
+
 # Unpack EtherNet Frame
 # SYNC[8 BYTES] RECEIVER[6 BYTES] SENDER[6 BYTES] TYPE[2 BYTES] PAYLOAD[ IP/ARP frame + padding) CTC[4 BYTES]
 def ethernet_frame(data):
